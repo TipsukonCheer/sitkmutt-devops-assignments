@@ -1,2 +1,3 @@
-# sitkmutt-devops-assignments
-SITKMUTT INT492 Assignment
+# Practical DevOps Assignments
+
+This is repository to submit assignments for Practical DevOps
